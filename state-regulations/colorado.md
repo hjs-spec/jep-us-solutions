@@ -259,6 +259,5 @@ For Colorado-specific inquiries:
 - **GitHub**: [hjs-spec/jep-us-solutions](https://github.com/hjs-spec/jep-us-solutions)
 
 ---
-
 *Last Updated: March 2026*
 ```
