@@ -238,4 +238,3 @@ Apache 2.0 - See [LICENSE](LICENSE) for details.
 ---
 
 *Designed for the United States 🇺🇸, serving global AI accountability*
-```
